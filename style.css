@@ -1,0 +1,20 @@
+.first-secton{
+    background-image: linear-gradient(rgb(248, 242, 242),rgb(200, 200, 200),rgb(150, 149, 149));
+}
+.third{
+    background-image: linear-gradient(rgb(233, 231, 231),rgb(245, 243, 243),rgb(241, 239, 239),rgb(215, 215, 215));
+}
+.fs-custom{
+    font-size: 56px;
+}
+.nav-right{
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+.input-email{
+    padding: 20px;
+}
+hr{
+    border: 1px solid rgb(179, 179, 179);
+}
